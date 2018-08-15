@@ -11,3 +11,7 @@
 
 ## 二、下载地址
 [从Github下载](https://github.com/Rouwanzi/AlfredWorkflow_CnyTransform/raw/master/CnyTransform.alfredworkflow)
+
+## 三、 Todo
+- [ ] 换个好看的图标。。。
+
