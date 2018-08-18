@@ -56,8 +56,7 @@ if __name__ == '__main__':
     cny_str5 = u'贰仟叁佰贰拾叁亿零肆佰万零叁拾肆元贰角整'
     cny_str6 = u'贰佰伍拾肆亿肆仟叁佰万零陆仟伍佰零壹圆肆角捌分'
     cny_str7 = u'贰亿柒仟叁佰贰拾壹万零叁仟零伍亿壹佰贰拾叁万伍仟玖佰零壹元肆角捌分'
-    cny_str8 = u'壹佰壹拾壹万零贰亿零伍拾肆元叁角柒分'
-    price = transform(cny_str8)
+    price = transform(cny_str7)
     print price
 #    import time
 #    start = time.time()
