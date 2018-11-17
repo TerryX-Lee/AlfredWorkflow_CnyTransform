@@ -1,8 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-@author: rouwanzi
-"""
+
 '''
 货币英文转阿拉伯数字
 '''

@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-"""
-@author: rouwanzi
-"""
+
 import sys
 import Ch2Num,Num2Ch,Eng2Num,Num2Eng
 from workflow import Workflow3

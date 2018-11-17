@@ -10,7 +10,7 @@
 #### 3.cmd+回车直接打出所选项
 
 ## 二、下载地址
-[从Github下载](https://github.com/Rouwanzi/AlfredWorkflow_CnyTransform/raw/master/CnyTransform_v1.0.alfredworkflow)
+[从Github下载](https://github.com/TerryX-Lee/AlfredWorkflow_CnyTransform/raw/master/CnyTransform_v1.0.alfredworkflow)
 
 ## 三、 Todo
 - [ ] 换个好看的图标。。。

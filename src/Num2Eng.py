@@ -1,8 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-@author: rouwanzi
-"""
 '''
 阿拉伯数字转英文
 '''
